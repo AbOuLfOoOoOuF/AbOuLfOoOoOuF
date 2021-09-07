@@ -13,7 +13,7 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-[![Telegram Badge](https://img.shields.io/badge/-@itsLuuke-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/itsLuuke"Contact on Telegram")
+[![Telegram Badge](https://img.shields.io/badge/-@itsLuuke-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/itsLuuke "Contact on Telegram")
 
 
 
