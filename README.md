@@ -8,8 +8,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbOuLfOoOoOuF&langs_count=4&theme=chartreuse-dark&hide_border=true)](https://github.com/AbouLfOoOoOuF/github-readme-stats)
 
-## ShellBot Workflow Status
-[![Telegram ShellBot Environment](https://github.com/abOuLfOoOoOuF/shellbot-workflow-nd/actions/workflows/nd-shell.yml/badge.svg?branch=main)](https://github.com/AbOuLfOoOoOuF/shellbot-workflow-nd/actions/workflows/nd-shell.yml)
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
